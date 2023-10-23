@@ -139,7 +139,6 @@ st.write(prediction[:,[1]])
 
 st.subheader('Точность прогноза 95%')
 
-<div id="bottom-right">Igor N</div>
 
 # In[ ]:
 
