@@ -31,7 +31,7 @@ import urllib.request
 # In[82]:
 
 
-csv_url = ("https://github.com/Nefvlad/welding_test/blob/main/ebw_data.csv")
+csv_url = ("https://raw.githubusercontent.com/Nefvlad/welding_test/blob/main/ebw_data.csv")
 
 
 # In[83]:
